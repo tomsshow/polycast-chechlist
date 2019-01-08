@@ -1,4 +1,4 @@
-# \<polycast-chechlist\>
+# \<polycast-checklist\>
 
 
 
